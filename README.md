@@ -1,43 +1,33 @@
-> ### _Hello, World!_
-> ### _меня зовут_
-> # **Максим Мухомедьяров**.
-> ### _Я создаю красивые простые вещи, которые помогают людям._ 
-<br/>
+ ### **Hello, World!**
+    Позвольте мне кратко рассказать о себе. Я начинающий java-разработчик из Москвы.  Мой путь в разработку начинался со школы, когда проходил курсы по работе в linux. Тогда познакомился с Bash и начал писать первые скрипты. В разработку перешел относительно недавно, но за это время успел освоить достаточно много современных технологий (об этом ниже).
+<details>
+<summary> Проекты </summary>
+ <br>
 
-> ## **More about me ...**
-> _Позвольте мне кратко рассказать о себе. Я начинающий java-разработчик из Москвы.  Мой путь в разработку начинался со школы, когда проходил курсы по работе в linux. Тогда познакомился с Bash и начал писать первые скрипты. В разработку перешел относительно недавно, но за это время успел освоить достаточно много современных технологий (об этом ниже). Моя главная цель - приносить прибыль как владельцу бизнеса, так и клиенту._
-<br/>
+<ul>
+  <li><a href="https://github.com/Madmaxim22/Converter">Конвертер картинок в ASCI</a></li>
+  <li><a href="https://github.com/Madmaxim22/MultiChat.git">Сетевой чат для обмена сообщениями</a></li>
+  <li><a href="">Сервис для перевода денег с карты на карту</a></li>
+  <li><a href="">Облачное хранилище</a></li>
+</ul>
+</details>
 
-> ## **Проекты**
-> С тех пор как я стал разработчиком на java, я следую принципу Питера Паркера “С большой силой приходит большая ответственность”. Моя первая и главная обязанность - сделать так, чтобы мой клиент был доволен. 
-> ### **Работа которая говорит сама за себя**
-> - [Конвертер картинок в ASCII](https://github.com/Madmaxim22/Converter)
-> ![java](images/sea.jpg)
-> - Сетевой чат для обмена сообщениями  
-> - Сервис для перевода денег с карты на карту
-> - Облачное хранилище 
+<details> 
+<summary> Навыки и умения </summary>
+<a href="https://www.java.com/ru/"><img src="images/javaLog.jpg" width="50" height="50" title="Java"></a>
+<a href="https://spring.io/"><img src="images/springLog.webp" width="50" height="50" title="Spring"></a>
+<a href="https://git-scm.com/"><img src="images/gitLog.webp" width="50" height="50" title="Git"></a>
+<a href="https://github.com/"><img src="images/githubLog.webp" width="50" height="50" title="GitHub"></a>
+<a href="https://junit.org/junit5/"><img src="images/junit5Log.webp" width="50" height="50" title="Junit5"></a>
+<a href="https://www.docker.com/"><img src="images/dockerLog.webp" width="50" height="50" title="Docker"></a>
+<a href="https://www.mongodb.com/"><img src="images/mongodbLog.webp" width="50" height="50" title="MongoDB"></a>
+<a href="https://ru.wikipedia.org/wiki/SQL"><img src="images/sqlLog.webp" width="50" height="50" title="SQL"></a>
+<a href="https://gradle.org/"><img src="imageg/../images/GradleLog.webp" width="50" height="50" title=""></a>
+</details>
 
-<br/>
-
-> ## **Опыт работы**
-> ### Стажер Java-разработчика
->  
-<br/>
-
-> ## **Навыки и умения**
->[![java](images/javaLog.jpg)](https://www.java.com/ru/)
->[![java](images/springLog.webp)](https://spring.io/)
->[![java](images/gitLog.webp)](https://git-scm.com/)
->[![java](images/githubLog.webp)](https://github.com/)
->[![java](images/junit5Log.webp)](https://junit.org/junit5/)
->[![java](images/dockerLog.webp)](https://www.docker.com/)
->[![java](images/mongodbLog.webp)](https://www.mongodb.com/)
->[![java](images/sqlLog.webp)](https://ru.wikipedia.org/wiki/SQL)
->[![java](imageg/../images/GradleLog.webp)](https://gradle.org/)
-
-> ## **Образование**
-<blockquote> 
-<table border="1" bordercolor="black" width="600" align="centre">
+<details>
+<summary> Образоание </summary> 
+<table border="2" bordercolor="black" width="600" align="centre">
 <tr><th>Образование</th>
 <th>Период</th></tr>
 <tr><td>Введение в Linux</td><td>2012г.</td></tr>
@@ -45,13 +35,7 @@
 <tr><td>Техническая защита информаци. Способы и средства защиты информации, содержащей сведения, состовляющие государственную тайну, от утечки по техническим каналам</td><td>2020г.</td></tr>
 <tr><td>Основы Java</td><td>2022г.</td></tr>
 </table>
-</blockquote>
-
-> ## **Котакты**
-
->![java](images/telefonLog.webp) 8(926)-709-50-21   
-> ![java](images/pochtaLog.webp)  <madmaxim22@gmail.com> 
-
+</details>
 
 
 
