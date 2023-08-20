@@ -6,8 +6,8 @@
 <ul>
   <li><a href="https://github.com/Madmaxim22/Converter">Конвертер картинок в ASCI</a></li>
   <li><a href="https://github.com/Madmaxim22/MultiChat.git">Сетевой чат для обмена сообщениями</a></li>
-  <li><a href="">Сервис для перевода денег с карты на карту</a></li>
-  <li><a href="">Облачное хранилище</a></li>
+  <li><a href="https://github.com/Madmaxim22/MoneyTransferService">Сервис для перевода денег с карты на карту</a></li>
+  <li><a href="https://github.com/Madmaxim22/CloudService">Облачное хранилище</a></li>
 </ul>
 </details>
 
@@ -29,9 +29,9 @@
 <table border="2" bordercolor="black" width="600" align="centre">
 <tr><th>Образование</th>
 <th>Период</th></tr>
-<tr><td>Введение в Linux</td><td>2012г.</td></tr>
+<tr><td>Введение в Linux</td><td>2022г.</td></tr>
 <tr><td>Инфокомкоммуникационные технологии и системы специальной связи</td><td>2013 - 2018г.</td></tr>
-<tr><td>Техническая защита информаци. Способы и средства защиты информации, содержащей сведения, состовляющие государственную тайну, от утечки по техническим каналам</td><td>2020г.</td></tr>
+<tr><td>Техническая защита информаци. Способы и средства защиты информации, содержащей сведения, состовляющие государственную тайну, от утечки по техническим каналам</td><td>2021г.</td></tr>
 <tr><td>Основы Java</td><td>2022г.</td></tr>
 </table>
 </details>
