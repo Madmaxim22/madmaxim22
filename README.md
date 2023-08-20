@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary> Образоание </summary> 
+<summary> Образование </summary> 
 <table border="2" bordercolor="black" width="600" align="centre">
 <tr><th>Образование</th>
 <th>Период</th></tr>
